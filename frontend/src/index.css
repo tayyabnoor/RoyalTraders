@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* NavBar styling */
+
+a.active > hr {
+    display: block
+}
