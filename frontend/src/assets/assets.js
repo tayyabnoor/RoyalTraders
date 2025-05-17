@@ -1,5 +1,6 @@
 // importing the products 
 import p_1 from './products/p-1/p1.avif'
+import p_12_1 from './products/p-12/p_12_1.avif'
 
 // importing Website assets 
 import logo from './products/logo.webp'
@@ -11,6 +12,7 @@ import dropdown_icon from './products/dropdown_icon.png'
 
 
 
+
 // exporting the Assests 
 export const assets = {
     logo,
@@ -18,7 +20,8 @@ export const assets = {
     profile_icon,
     cart_icon,
     menu_icon,
-    dropdown_icon
+    dropdown_icon,
+    p_12_1
 }
 
 // exporting the products 
